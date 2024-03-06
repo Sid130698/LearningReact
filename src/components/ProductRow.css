@@ -1,0 +1,21 @@
+  
+.not_in_stocks {
+    color: red;
+  }
+  tr{
+      text-align: left;
+  }
+  td {
+    width: 150px;
+   
+  }
+   tr:hover{
+       background-color: aquamarine;
+   }
+  
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  tr:nth-child(even):hover {
+    background-color:aqua;
+  }
